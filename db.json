@@ -1,0 +1,46 @@
+{
+  "seller": [
+    {
+      "name": "bharath",
+      "email": "bharath@gmail.com",
+      "password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "bharathganni",
+      "email": "bharath@gmail.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 3
+    },
+    {
+      "name": "toni",
+      "password": "abc@123",
+      "email": "xyz@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "",
+      "password": "",
+      "email": "",
+      "id": 5
+    },
+    {
+      "name": "bharathganni",
+      "email": "bharath@gmail.com",
+      "password": "abc@123",
+      "id": 6
+    },
+    {
+      "name": "bharathganni",
+      "email": "bharath@gmail.com",
+      "password": "abc@123",
+      "id": 7
+    }
+  ]
+}
